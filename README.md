@@ -1,34 +1,17 @@
 <div align="center">
+  <h2>Jogo da Velha #ProjectByDay[1-5]</h2>
+    <img height="300em" src="./github/quebra_cabeças.gif"/>
   <h3>Olá!</h3>
-  <h4>Esse projeto faz parte de outro projeto que eu chamo de #ProjectByDay</h4>
-  <img height="180em" src="https://media.giphy.com/media/3oriOiizS4Pmofj46A/giphy.gif"/>
+  <h3>Esse projeto é parte de um outro projeto na qual eu chamo de #ProjectByDay</h3>
+  
+
+   ```bash
+#ProjectByDay. Qual é o propósito disso?
+ A ideia não é criar projetos extremamente trabalhosos, e sim projetos simples que não me atrapalhem nas obrigações do dia a dia, focando em conceitos básicos e os reforçando. Talvez em um projeto só tenha um ponto interessante, essa é a questão.
+
+```
+
 </div>
-
-</br>
-Por ter trabalhado vários anos na área da saúde como atendente, sei muito bem como me relacionar com as pessoas.
-Quero ajudar meus amigos, família com tecnologia. Seja no mercadinho de um amigo, no salão da minha tia, ou com um amigo que presta serviço de refrigeração. Sei que é possível levar um pedaço desse mundo que tanto gosto que é a programação.
-
-</br></br>
-Desde 2020 focado em estudar programação, dedicado ao extremo.
-
-<div align="center">
-  <a href="https://github.com/igoraraujocruz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=igoraraujocruz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igoraraujocruz&layout=compact&langs_count=7&theme=dark"/>
-</div>
-  </br>
-  </br>
-
-<div align="center">
-  <h3>🛠 Tech Stack</h3>
-    <h4>Projeto feito em React</h4>
-</div>
-<br>
-
-</br>
-</div>
- </br>
-  </br>
 
 <h4 align="center">Fique a vontade pra entrar em contato, networking sempre é bom  😁</h4>
 
