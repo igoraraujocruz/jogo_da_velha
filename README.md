@@ -5,14 +5,18 @@
   <h3>Esse projeto é parte de um outro projeto na qual eu chamo de #ProjectByDay</h3>
   
 
-   ```bash
-#ProjectByDay. Qual é o propósito disso?
- A ideia não é criar projetos extremamente trabalhosos, e sim projetos simples que não me atrapalhem nas obrigações do dia a dia, focando em conceitos básicos e os reforçando. Talvez em um projeto só tenha um ponto interessante, essa é a questão.
 
-```
+</br>
+<div align="start">
+<h3>#ProjectByDay. Qual é o propósito disso?</h3>
+
+ A ideia não é criar projetos extremamente trabalhosos, e sim projetos simples que não me atrapalhem nas obrigações do dia a dia, focando em conceitos básicos e os reforçando. Talvez em um projeto só tenha um ponto interessante, essa é a questão.
+ </div>
+
 
 </div>
 
+</br>
 <h4 align="center">Fique a vontade pra entrar em contato, networking sempre é bom  😁</h4>
 
 <p align="center">  
